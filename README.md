@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Node.js,React**
 
-- 👨‍💻 All of my projects are available at [https://santhosh-037as.github.io/portfolio/](https://santhosh-037as.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at : [https://santhosh-037as.github.io/portfolio/](https://santhosh-037as.github.io/portfolio/)
 
-- 📫 How to reach me **santhosh292k**
+- 📫 How to reach me : **santhosh292k@gmail.com**
 
-- 📄 Know about my experiences [https://santhosh-037as.github.io/portfolio/resume](https://santhosh-037as.github.io/portfolio/resume)
+- 📄 Know about my experiences : [https://santhosh-037as.github.io/portfolio/resume](https://santhosh-037as.github.io/portfolio/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
