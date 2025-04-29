@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Turning+Ideas+Into+Reality+Through+Code;Creating+Interactive+Web+Experiences;2D+to+3D+Walkthrough+Conversion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Tech+Explorer;Building+3D+Walkthroughs+from+2D+Plans;Always+Learning+and+Improving" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on a **2D Floor Plan to 3D Walkthrough Conversion App**
 - 🌱 Exploring: **Node.js**, **React**, and **Advanced 3D Modeling**
 - 💼 Interning as an **SDE at MetatronCube Software Solutions**
-- 👨‍🎓 Pursuing **CS at Amrita University** & **Data Science at IIT Madras**
+- 👨‍🎓 Pursuing **CSE at Amrita University** & **Data Science at IIT Madras**
 - 📫 Contact me at: **santhosh292k@gmail.com**
 - 🌐 Portfolio: [santhosh-037as.github.io/portfolio](https://santhosh-037as.github.io/portfolio/)
 - 📄 Resume: [Click Here](https://santhosh-037as.github.io/portfolio/resume)
