@@ -58,7 +58,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Santhosh292K&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
   <br />
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Santhosh292K&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Santhosh292K&theme=chartreuse-dark&hide_border=false)<br/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh292K&theme=chartreuse-dark&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
