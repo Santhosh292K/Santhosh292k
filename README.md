@@ -1,21 +1,84 @@
+<h1 align="center">Hi 👋, I'm <span style="color:#27ae60"><b>Santhosh</b></span></h1>
+<h3 align="center">🚀 Passionate Software Developer from India 🇮🇳</h3>
 
-# 💫About Me :
-🔭 I’m currently working on Converting 2d floorplan to 3d Walkthroughs to 3d walkthrough model
-
-🌱 I’m currently learning Node.js,React
-
-👨‍💻 All of my projects are available at : https://santhosh-037as.github.io/portfolio/
-
-📫 Reach me at : santhosh292k@gmail.com
-
-📄 Know about my experiences : https://santhosh-037as.github.io/portfolio/resume
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Santhosh292K&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santhosh292K&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh292K&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Turning+Ideas+Into+Reality+Through+Code;Creating+Interactive+Web+Experiences;2D+to+3D+Walkthrough+Conversion" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Santhosh292K&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💫 About Me
+- 🔭 I’m currently working on a **2D Floor Plan to 3D Walkthrough Conversion App**
+- 🌱 Exploring: **Node.js**, **React**, and **Advanced 3D Modeling**
+- 💼 Interning as an **SDE at MetatronCube Software Solutions**
+- 👨‍🎓 Pursuing **CS at Amrita University** & **Data Science at IIT Madras**
+- 📫 Contact me at: **santhosh292k@gmail.com**
+- 🌐 Portfolio: [santhosh-037as.github.io/portfolio](https://santhosh-037as.github.io/portfolio/)
+- 📄 Resume: [Click Here](https://santhosh-037as.github.io/portfolio/resume)
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart,haskell" />
+</p>
+
+#### 🌐 Frontend & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter,electron,flask,nodejs" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,notion,github,git,vscode" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh292K&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh292K&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh292K&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh292K&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Santhosh292K&style=flat-square&color=brightgreen" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:santhosh292k@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/santhosh292k/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://santhosh-037as.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
