@@ -49,9 +49,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh292K&theme=chartreuse-dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh292K&show_icons=true&theme=chartreuse-dark&hide_border=false" alt="GitHub Stats" />
   <br />
-<img src="https://streak-stats.demolab.com/?user=Santhosh292K&theme=chartreuse-dark&hide_border=false" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Santhosh292K&theme=chartreuse-dark&hide_border=false" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh292K&theme=chartreuse-dark&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
@@ -61,7 +61,7 @@
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Santhosh292K&theme=chartreuse-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh292K&theme=chartreuse-dark" />
 </p>
 
 ---
