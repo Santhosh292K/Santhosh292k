@@ -22,23 +22,109 @@
 
 #### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart,haskell" />
+  <table>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=dart" width="40"/><br/>Dart
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=haskell" width="40"/><br/>Haskell
+      </td>
+    </tr>
+  </table>
 </p>
 
 #### 🌐 Frontend & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter,electron,flask,nodejs" />
+  <table>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=next" width="40"/><br/>Next.js
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40"/><br/>Flutter
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=electron" width="40"/><br/>Electron
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=flask" width="40"/><br/>Flask
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js
+      </td>
+    </tr>
+  </table>
 </p>
 
 #### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <table>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br/>SQLite
+      </td>
+    </tr>
+  </table>
 </p>
 
 #### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,notion,github,git,vscode" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=arduino" width="40"/><br/>Arduino
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=notion" width="40"/><br/>Notion
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VSCode
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" height="30"/><br/>Jira
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
