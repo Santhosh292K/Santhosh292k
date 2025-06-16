@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#27ae60"><b>Santhosh</b></span></h1>
-<h3 align="center">🚀 Passionate Software Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Software Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Tech+Explorer;Building+3D+Walkthroughs+from+2D+Plans;Always+Learning+and+Improving" />
