@@ -13,7 +13,7 @@
 - 💼 Interning as an **SDE at MetatronCube Software Solutions**
 - 👨‍🎓 Pursuing **CSE at Amrita University** & **Data Science at IIT Madras**
 - 📫 Contact me at: **santhosh292k@gmail.com**
-- 🌐 Portfolio: [santhosh-037as.github.io/portfolio](https://santhosh-037as.github.io/portfolio/)
+- 🌐 Portfolio: [santhosh-037as.github.io/portfolio](https://santhosh292k.vercel.app/)
 - 📄 Resume: [Click Here](https://santhosh-037as.github.io/portfolio/resume)
 
 ---
