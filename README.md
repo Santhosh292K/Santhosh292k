@@ -8,13 +8,11 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on a **2D Floor Plan to 3D Walkthrough Conversion App**
-- 🌱 Exploring: **Node.js**, **React**, and **Advanced 3D Modeling**
-- 💼 Interning as an **SDE at MetatronCube Software Solutions**
+- 🔭 I’m currently working on a **Mobile Application for a AI based Study Companion**
 - 👨‍🎓 Pursuing **CSE at Amrita University** & **Data Science at IIT Madras**
 - 📫 Contact me at: **santhosh292k@gmail.com**
 - 🌐 Portfolio: [santhosh-037as.github.io/portfolio](https://santhosh292k.vercel.app/)
-- 📄 Resume: [Click Here](https://santhosh-037as.github.io/portfolio/resume)
+- 📄 Resume: [Click Here](https://santhosh292k.vercel.app/resume)
 
 ---
 
