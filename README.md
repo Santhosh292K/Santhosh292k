@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on a **Mobile Application for a AI based Study Companion**
 - 👨‍🎓 Pursuing **CSE at Amrita University** & **Data Science at IIT Madras**
 - 📫 Contact me at: **santhosh292k@gmail.com**
-- 🌐 Portfolio: [santhosh-037as.github.io/portfolio](https://santhosh292k.vercel.app/)
+- 🌐 Portfolio: [https://santhosh292k.vercel.app](https://santhosh292k.vercel.app/)
 - 📄 Resume: [Click Here](https://santhosh292k.vercel.app/resume.html)
 
 ---
