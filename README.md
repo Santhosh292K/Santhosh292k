@@ -12,7 +12,7 @@
 - 👨‍🎓 Pursuing **CSE at Amrita University** & **Data Science at IIT Madras**
 - 📫 Contact me at: **santhosh292k@gmail.com**
 - 🌐 Portfolio: [https://santhosh292k.vercel.app](https://santhosh292k.vercel.app/)
-- 📄 Resume: [Click Here](https://santhosh292k.vercel.app/resume)
+- 📄 Resume: [Click Here](https://santhosh292k.vercel.app/resume.html)
 
 ---
 
