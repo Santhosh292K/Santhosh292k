@@ -2,7 +2,7 @@
 <h3 align="center">🚀 3x Hackathon Winner 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Tech+Explorer;Building+3D+Walkthroughs+from+2D+Plans;Always+Learning+and+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Tech+Explorer;Always+Learning+and+Improving" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 👨‍🎓 Pursuing **CSE at Amrita University** & **Data Science at IIT Madras**
 - 📫 Contact me at: **santhosh292k@gmail.com**
 - 🌐 Portfolio: [https://santhosh292k.vercel.app](https://santhosh292k.vercel.app/)
-- 📄 Resume: [Click Here](https://santhosh292k.vercel.app/resume.html)
+- 📄 Resume: [Click Here](https://santhosh292k.vercel.app/resume)
 
 ---
 
