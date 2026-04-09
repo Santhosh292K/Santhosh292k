@@ -123,18 +123,20 @@ contact:    santhosh292k@gmail.com
 
 <!-- ─────────────────────────────────────────── -->
 <!--                GITHUB STATS                 -->
+<!-- Using anuraghazra's vercel fork (most stable)-->
 <!-- ─────────────────────────────────────────── -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santhosh292K&show_icons=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Santhosh292K&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=c9d1d9&dates=666&currStreakNum=fff&sideNums=fff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Santhosh292K&show_icons=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&show=reviews,discussions_started"/>
 
-<br/>
+<img height="180" src="https://streak-stats.demolab.com?user=Santhosh292K&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=c9d1d9&dates=666&currStreakNum=fff&sideNums=fff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh292K&layout=compact&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh292K&layout=compact&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html"/>
 
 </div>
 
@@ -142,12 +144,16 @@ contact:    santhosh292k@gmail.com
 
 <!-- ─────────────────────────────────────────── -->
 <!--              GITHUB TROPHIES                -->
+<!-- theme options that actually work:           -->
+<!-- tokyonight | nord | darkhub | radical       -->
 <!-- ─────────────────────────────────────────── -->
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Santhosh292K&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Santhosh292K&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
 </div>
 
 ---
@@ -170,45 +176,14 @@ contact:    santhosh292k@gmail.com
 
 ## 🐍 Contribution Snake
 
-> **One-time setup needed** — create `.github/workflows/snake.yml` in your `Santhosh292K/Santhosh292K` profile repo and paste the workflow below. After the first run, the snake appears automatically every day.
-
-<details>
-<summary><b>📋 snake.yml — click to copy</b></summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Santhosh292K/Santhosh292K/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santhosh292K/Santhosh292K/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Santhosh292K/Santhosh292K/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
 </div>
 
 ---
@@ -230,9 +205,5 @@ jobs:
 > *"Build things that matter. Ship fast. Learn faster."*
 
 </div>
-
-<!-- ─────────────────────────────────────────── -->
-<!--                  FOOTER                     -->
-<!-- ─────────────────────────────────────────── -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:16a34a,100:0d1117&height=100&section=footer&animation=fadeIn"/>
